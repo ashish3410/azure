@@ -1,0 +1,127 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+.flip-container-0 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-0.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-1 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-1.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-2 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-2.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-3 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-3.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-4 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-4.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-5 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-5.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-6 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-6.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-7 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-7.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-8 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-8.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-9 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-9.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-10 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-10.flipped {
+  transform: rotateY(90deg);
+}
+.flip-container-11 {
+  transition: transform 0.5s; /* adjust the transition duration as needed */
+}
+
+.flip-container-11.flipped {
+  transform: rotateY(90deg);
+}
